@@ -1,5 +1,5 @@
 # novicepy
-![Static Badge](https://img.shields.io/badge/python%203.12.4-yellow?style=for-the-badge&logo=Python)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Static Badge](https://img.shields.io/badge/on%20works-red?style=for-the-badge&logo=Pytest)
 ![Static Badge](https://img.shields.io/badge/made%20in%20windows-blue?style=for-the-badge&logo=Windows)
 ![Static Badge](https://img.shields.io/badge/open%20for%20pulls-black?style=for-the-badge&logo=GitHub)
