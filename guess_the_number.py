@@ -7,9 +7,9 @@ def main():
             min = int(input("Minimum: "))
             max = int(input("Maximum: "))
             if min > max:
-                raise ValueError
+                print("Invalid minimum! Must be less than the maximum!")
         except ValueError:
-            print("Invalid minimum or maximum! Must be an integer or max must be greater than min!")
+            print("Invalid Inputs! Must be an integer!")
         else:
             match loop(min, max):
                 case "b":
