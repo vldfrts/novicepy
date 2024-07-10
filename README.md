@@ -13,7 +13,7 @@ Suggestions to improve and/or shorten this code will be much appreciated:D
 > Create a pull request
 
 ## CONTENTS
-1. [Guess The Number](https://github.com/vldfrts/novicepy/blob/main/guess_the_number.py)
+1. [Number Guess](https://github.com/vldfrts/novicepy/blob/main/number_guess/number_guess.py)
 
 A Python-written command line interface program where a player may guess a number within their desired minimum and maximum range.
 
