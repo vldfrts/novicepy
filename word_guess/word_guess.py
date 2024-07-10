@@ -40,7 +40,7 @@ def main():
 
         game_state(word, guessed, remaining_attempts, correct_guess)
     
-    game_end_conditions(word, correct_guess)
+    game_end_conditions(word, name, correct_guess)
 
     again = input("Play again (y/n): ")
     if again.lower() == "y" or again.lower() == "yes":
@@ -55,9 +55,9 @@ def game_state(word, guessed, remaining_attempts, correct_guess):
     print(f"You have {remaining_attempts} remaining attempts left!")
 
 
-def game_end_conditions(word, correct_guess):
+def game_end_conditions(word, name, correct_guess):
     if "_" not in correct_guess:
-        print("Congratulations! You guessed it!")
+        print(f"Congratulations, {name}! You guessed it!")
     else:
         print(f"Uh oh, you ran out of attempts. The word was {word}")
 
