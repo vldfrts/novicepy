@@ -19,6 +19,6 @@ A Python-written command line interface program where a player may guess a numbe
 
 2. [Word Guess](https://github.com/vldfrts/novicepy/blob/main/word_guess/word_guess.py)
 
-A Python-written command line interface program where a player may guess a word by each letter with a maximum of 5 attempts in a random word from 10,000 words curated list of Massachusetts Institute of Technology.
+A Python-written command line interface program where a player may guess a random word from the curated list of 10,000 words of Massachusetts Institute of Technology by each letter with a maximum of 5 attempts.
 
 Cheers!
