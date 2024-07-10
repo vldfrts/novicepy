@@ -3,7 +3,7 @@
 ![Pytest](https://img.shields.io/badge/pending%20pytest-red?style=for-the-badge&logo=Pytest&logoColor=white)
 ![GitHub](https://img.shields.io/badge/open%20for%20pulls-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-'novicepy' is a collection of novice-level projects in Python aimed to document all possible begginer-level projects as much as possible which utilizes the basic concepts and principles of Python and programming in general from all applicable fields of the programming language involved.
+'novicepy' is a collection of my novice-level projects in Python aimed to document all begginer-level projects as much as possible which utilizes the basic concepts and principles of Python and programming in general from all applicable fields of the programming language involved while personally serving as practice in programming.
 
 > [!NOTE]
 > Additional projects will be located here and the utilization of this readme file as an efficient finder of projects within this repository.
