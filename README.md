@@ -17,7 +17,7 @@ Suggestions to improve and/or shorten this code will be much appreciated:D
 
 A Python-written command line interface program where a player may guess a number within their desired minimum and maximum range.
 
-2. [Word Guess]("https://github.com/vldfrts/novicepy/blob/main/word_guess/word_guess.py")
+2. [Word Guess](https://github.com/vldfrts/novicepy/blob/main/word_guess/word_guess.py)
 
 A Python-written command line interface program where a player may guess a word by each letter with a maximum of 5 attempts in a random word from 10,000 words curated list of Massachusetts Institute of Technology.
 
