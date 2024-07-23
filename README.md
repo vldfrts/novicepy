@@ -24,4 +24,4 @@ A command line interface program where a player may guess a random word from the
 
 A command line interface program where a player will fight against the random module in Rock, Paper, and Scissors in an indefinite loop until the user ends it.
 
-Cheers!
+🥳Cheers!🥳
