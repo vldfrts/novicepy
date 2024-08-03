@@ -1,0 +1,10 @@
+Commands, Operation, Notes
+add, Addition, 50 Digit Limit
+sub, Subraction, 50 Digit Limit
+mul, Multiplication, 50 Digit Limit
+div, Division, 50 Digit Limit
+exp, Exponential, >1000 y/exponential and >10000 x/base is not allowed
+fct, Factorial, Do not put anything on y! and >1000 fct is not allowed
+clr, Clear
+abt, About
+ext, Exit
