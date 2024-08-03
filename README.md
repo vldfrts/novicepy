@@ -24,4 +24,7 @@ A command line interface program where a player may guess a random word from the
 
 A command line interface program where a player will fight against the random module in Rock, Paper, and Scissors in an indefinite loop until the user ends it.
 
+4. [Simple_Calc](https://github.com/vldmrrfrts/novicepy/tree/main/simple_calc)
+A command line interface calculator that is capable of the four basic arithmetic operations, exponential notations, and square roots.
+
 🥳Cheers!🥳
